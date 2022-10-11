@@ -1,0 +1,5 @@
+*.o
+*.a
+sever
+client
+test.sh
